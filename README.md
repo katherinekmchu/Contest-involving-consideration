@@ -2,12 +2,12 @@
 Concerning issues when hosting a contest that may involve consideration 
 
 STATES THAT RESTRICT OR PROHIBIT: 
-<b> Statute
+<b> Statute </b>
 Connecticut Section 42-298. Game of skill. Restriction on advertisement. No personal shall advertise a game of skill where a prize with a fair market value of over two hundred dollars is awarded to a winner if participants are required to pay an entry or judging fee or are solicted to purchase a good or service designed to assist the participant in winning the game of skill provided the participant may be required to purchase a consumer product or service if the game of skill is designed primarily to promote such product or service.
 Connecticut Section 42-300. Unfair trade practices. A violation of sections 42-295-42-299, inclusive, shall be deemed an unfair or deceptive trade practice under subsection (a) of section 42-110b.
 
-Arizona 
-<b> Statute
+Arizona - gambling is generally prohibited under state law with exceptions - including 'amusement gambling'. "Gambling" requires (1) an act of risking or giving something of value (2) opportunity to obtain a benefit and (3) from a game or contest of chance or skill or a future cotningent event. "Act of risking or giving something of value" means the loss of something with economic, monetary or exchange value (e.g., money wagered or used to operate or participate in a game or contest), but if no money or nothing of value is required to participate, then the conduct is not "gambling."
+<b> Statute </b>
 13-3301.1 "Amustment gambling" means gambling involving a device, game or contest which is played for entertainment if all of the following apply:
 (a) the player or players actively participate in the game or contest or with the device
 (b) the outcome is not in the control to any material degree of any person other than the player or players
@@ -23,5 +23,8 @@ Arizona
  B. W/n 10 days following the award of all prizes in connection with an amusement gambling intellectual contest or event, the person conducting the contest or event shall file with the AG's office the names and addresses of all persons who have won prizes in connection with the contest or event.
  C. For each amusement gamblign intellectual contest or event held, the person conducting the event shall file with the AG's office a sworn statement under oath that no increment has been added to the established purchase price for the product in connection with the gambling event. 
  D. This section does not apply to qualfieid exemptions ...(schools etc). 
+
+<b> Colorado </b>
+6-1-803. Prohibited Pracitces and Required Disclosures. 
 
 STATES WITH DISCLOSURE REQUIREMENTS: 
