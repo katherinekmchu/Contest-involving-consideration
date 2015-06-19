@@ -80,12 +80,25 @@ Section 90 -"Gambling" is the intentional conducting, or directly assisting in t
 
 
 <p> <b>Montana </b> 
-<b> Squarely on 'gambling' paid consideration to enter into a skilled contest not covered. 
+Squarely on 'gambling' paid consideration to enter into a skilled contest not covered. 
 
-<p> <b>North Dakota </b>
-<p>12.1-28-01."Gambling" means risking any money, credit, deposit, or other thing of value for gain, contingent, wholly or partially, upon lot, chance, the operation of gambling apparatus, or the happening or outcome of an event, including an election or sporting event, over which the person taking the risk has no control. Gambling does not include:
-a. Lawful contests of skill, speed, strength, or endurance in which awards are made only to entrants or to the owners of entries; b. Lawful business transactions, or other acts or transactions now or hereafter expressly authorized by law; or c. Use of gaming equipment and devices that may not otherwise be lawful in the state when the equipment or devices are used by any institution under the control of the state board of higher education which awards degrees of bachelor's or higher for the purpose of conducting scientific research in a controlled environment on the campus of that institution.
+<p>
+<b>South Carolina* </b> 
+<p>Not likely gambling but also allows fo recovering of losts (like Vermont)
+<p>Title 32
+SECTION 32-1-10. Suit by loser at cards or other game for recovery of losses.
+Any person who shall at any time or sitting, by playing at cards, dice table or any other game whatsoever or by betting on the sides or hands of such as do play at any of the games aforesaid, lose to any person or persons so playing or betting, in the whole, the sum or value of fifty dollars and shall pay or deliver such sum or value or any part thereof shall be at liberty, within three months then next ensuing, to sue for and recover the money or goods so lost and paid or delivered or any part thereof from the respective winner or winners thereof, with costs of suit, by action to be prosecuted in any court of competent jurisdiction.
+SECTION 32-1-20. Suit by person other than loser for recovery of losses.
+In case any person who shall lose such money or other thing as aforesaid shall not, within the time aforesaid, really and bona fide and without covin or collusion sue and with effect prosecute for the money or other things so by him or them lost and paid and delivered as aforesaid, it shall be lawful for any other person, by any such action or suit as aforesaid, to sue for and recover the same and treble the value thereof, with costs of suit, against such winner or winners as aforesaid, the one moiety thereof to the use of the person that will sue for the same and the other moiety to the use of the county in which the offense shall have been committed.
+
+<p> <b>South Dakota </b>
+Allows 'gamblers' to recover gambling losses. 
+
+<p> <b>Tenessee</b>
+
 
 <b>Vermont**></b>
 Title 9 Commerce and Trade. Chapter 101; Wagering Contracts. 9 V.S.A Section 3981 - A person who pays money or other valuable thing lost at a game or sport or horse race may recover the value thereof of the person to whom it was paid in a civil action, if commenced within one month from the time of payment. Vermont use to prohibits requriing any kind of entry fee, service charge, or purchase to enter or contionue to remain eligible in a game of skill, contest, sweepstakes, giveaway or other promotion but it has since been amended (in 2013). However, because of the refund clause - most games still restrict participation from Vermont residences. 
 
+
+<p> <b>Washington</b>
